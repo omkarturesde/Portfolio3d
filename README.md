@@ -1,4 +1,4 @@
-# Omkar Turesde - 3D Developer Portfolio
+# Omkar Ture SDE - 3D Developer Portfolio
 
 Welcome to my personal 3D developer portfolio! This project showcases my skills, experience, and projects as a web developer with a passion for 3D web experiences.
 
