@@ -4,12 +4,10 @@ Welcome to my personal 3D developer portfolio! This project showcases my skills,
 
 ## 👨‍💻 About Me
 
-Hi, I'm Omkar Turesde, a developer specializing in modern web technologies, 3D graphics, and interactive user experiences. I enjoy building visually engaging and technically robust applications using React, Three.js, and related tools.
+Hi, I'm Omkar Ture sde, a developer specializing in modern web technologies, 3D graphics, and interactive user experiences. I enjoy building visually engaging and technically robust applications using React, Three.js, and related tools.
 
 - **Location:** India
-- **Email:** omkarturesde@gmail.com
-- **LinkedIn:** [linkedin.com/in/omkarturesde](https://linkedin.com/in/omkarturesde)
-- **GitHub:** [github.com/omkarturesde](https://github.com/omkarturesde)
+- **Email:** omkarture375@gmail.com
 
 ## 🚀 Project Overview
 
@@ -55,4 +53,4 @@ Some of my featured projects:
 Feel free to reach out for collaboration or freelance opportunities!
 
 ---
-© 2025 Omkar Turesde. All rights reserved.
+© 2025 Omkar Ture. All rights reserved.
